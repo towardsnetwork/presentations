@@ -6,14 +6,14 @@
 4. Security testing
 5. Tools
   * SAST
-  -- Sonarqube
-  -- PHP Stan
-  -- Progpilot
+  - Sonarqube
+  - PHP Stan
+  - Progpilot
   * DAST
-  -- Burpsuite
-  -- OWASP ZAP
-  -- Nikto
+  - Burpsuite
+  - OWASP ZAP
+  - Nikto
   * Dependency checks
-  -- OWASP Dependency checks
+  - OWASP Dependency checks
 6. Web application firerwalls
 7. Advanced bypassess and protections

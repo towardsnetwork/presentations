@@ -5,15 +5,15 @@
 3. Security concepts and testing web application
 4. Security testing
 5. Tools
-  A. SAST
-  - Sonarqube
-  - PHP Stan
-  - Progpilot
-  B. DAST
-  - Burpsuite
-  - OWASP ZAP
-  - Nikto
-  C. Dependency checks
-  - OWASP Dependency checks
+  * SAST
+  -- Sonarqube
+  -- PHP Stan
+  -- Progpilot
+  * DAST
+  -- Burpsuite
+  -- OWASP ZAP
+  -- Nikto
+  * Dependency checks
+  -- OWASP Dependency checks
 6. Web application firerwalls
 7. Advanced bypassess and protections

@@ -61,6 +61,8 @@
 ### AWS Security services
 IAM
 Resource Access Manager
+CloudWatch
+CloudTrail
 Cognito
 Secrets Manager
 GuardDuty

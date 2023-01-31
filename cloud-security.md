@@ -57,3 +57,32 @@
 6. Cross Certification Framework (CCF)
 7. CSA Reference Architecture
 8. Shared responsibility model
+
+### AWS Security services
+IAM
+Resource Access Manager
+Cognito
+Secrets Manager
+GuardDuty
+Amazon Inspector
+Amazon Macie
+IAM Identity Center (successor to AWS Single Sign-On)
+Certificate Manager
+Key Management Service
+CloudHSM
+Directory Service
+WAF & Shield
+AWS Firewall Manager
+AWS Artifact
+Security Hub
+Detective
+AWS Signer
+AWS Private Certificate Authority
+AWS Audit Manager
+Security Lake
+Amazon Verified Permissions
+
+### Azure Security services
+
+### GCP Security services
+
